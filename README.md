@@ -2,6 +2,21 @@
  ## Vision
 Experience hassle-free token movement across EVM compatible chains.
 
+## 📊 Presentation
+
+For a detailed presentation about the Bridge-TokenFlow project, click the link below:
+
+[Bridge-TokenFlow Presentation]()
+
+## 🎥 Demo
+
+Check out our demo video to see how Bridge-TokenFlow works:
+
+[![Watch the video]()]()
+
+[Watch the video]()
+
+
  ## Sequence Diagram
 
 Here is the sequence diagram illustrating the token movement across EVM-compatible chains for the "Bridge-TokenFlow" project:
