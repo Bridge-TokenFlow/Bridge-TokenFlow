@@ -1,4 +1,6 @@
  project name, "Bridge-TokenFlow":
+ ## Vision
+Experience hassle-free token movement across EVM compatible chains.
 
  ## Sequence Diagram
 
@@ -10,6 +12,20 @@ Here is the sequence diagram illustrating the token movement across EVM-compatib
 s
 [Download png](https://github.com/samarabdelhameed/pics/blob/main/diagram.png)
 
+
+
+## Description
+**Easily Move Your Tokens Across Different Chains**  
+Bridge-TokenFlow allows you to seamlessly transfer supported tokens across various EVM-compatible chains. Here's how we make it happen:
+
+### 1. Circle Payments & Transfers API
+Currently, this method exclusively supports USDC transactions. It enables the movement of tokens between Ethereum and Polygon PoS networks, and vice versa.
+
+### 2. Circle CCTP
+With Circle CCTP, you can transfer USDC, DAI, USDT, and WETH tokens across Ethereum, Arbitrum, and Avalanche networks.
+
+### 3. Polygon LxLy
+Using Polygon LxLy, you can bridge USDC, DAI, and USDT tokens between Ethereum and Polygon zkEVM networks, ensuring smooth movement in both directions.
 
 ```markdown
 <h1 align="center">
